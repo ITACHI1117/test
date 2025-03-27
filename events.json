@@ -2,21 +2,61 @@
     {
         "event_id": 1,
         "event_name":"Event 1",
-        "date": "2021-01-01",
+        "date": "2025-03-27T2:16:00Z",
         "location": "Location 1",
         "description": "Description 1",
-        "start_time": "10:00",
-        "end_time": "12:00",
+        "start_time": "2025-03-27T2:16:00Z",
+        "end_time": "2025-03-27T20:30:00Z",
         "status": "active"
     },
     {
         "event_id": 2,
         "event_name":"Event 2",
-        "date": "2021-01-01",
+        "date": "2025-03-28T20:30:00Z",
         "location": "Location 2",
         "description": "Description 2",
-        "start_time": "12:00",
-        "end_time": "2:00",
+        "start_time": "2025-03-28T20:30:00Z",
+        "end_time": "2025-03-27T20:30:00Z",
+        "status": "active"
+    },
+    {
+        "event_id": 3,
+        "event_name":"Event 3",
+        "date": "2025-03-28T20:30:00Z",
+        "location": "Location 3",
+        "description": "Description 3",
+        "start_time": "2025-03-28T20:30:00Z",
+        "end_time": "2025-03-27T20:30:00Z",
+        "status": "active"
+    },
+    {
+        "event_id": 4,
+        "event_name":"Event 4",
+        "date": "2025-03-28T20:30:00Z",
+        "location": "Location 4",
+        "description": "Description 4",
+        "start_time": "2025-03-28T20:30:00Z",
+        "end_time": "2025-03-27T20:30:00Z",
+        "status": "active"
+    }
+    {
+        "event_id": 5,
+        "event_name":"Event 5",
+        "date": "2025-03-29T20:30:00Z",
+        "location": "Location 5",
+        "description": "Description 5",
+        "start_time": "2025-03-28T20:30:00Z",
+        "end_time": "2025-03-27T20:30:00Z",
+        "status": "active"
+    }
+    {
+        "event_id": 6,
+        "event_name":"Event 6",
+        "date": "2025-03-30T20:30:00Z",
+        "location": "Location 6",
+        "description": "Description 6",
+        "start_time": "2025-03-28T20:30:00Z",
+        "end_time": "2025-03-27T20:30:00Z",
         "status": "active"
     }
 ]
