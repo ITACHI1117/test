@@ -15,7 +15,7 @@
         "date": "2025-03-28T20:30:00Z",
         "location": "Location 2",
         "description": "Description 2",
-        "start_time": "2025-03-28T6:10:00Z",
+        "start_time": "2025-03-28T5:10:00Z",
         "end_time": "2025-03-28T10:30:00Z",
         "status": "active"
     },
@@ -35,7 +35,7 @@
         "date": "2025-03-28T20:30:00Z",
         "location": "Location 4",
         "description": "Description 4",
-        "start_time": "2025-03-28T6:10:00Z",
+        "start_time": "2025-03-28T5:10:00Z",
         "end_time": "2025-03-28T8:30:00Z",
         "status": "active"
     },
